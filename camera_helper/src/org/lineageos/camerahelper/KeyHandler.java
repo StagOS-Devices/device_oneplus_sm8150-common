@@ -26,9 +26,9 @@ import android.util.Log;
 import android.view.KeyEvent;
 import android.view.WindowManager;
 
-import com.android.internal.os.DeviceKeyHandler;
+import com.android.internal.os.AltDeviceKeyHandler;
 
-public class KeyHandler implements DeviceKeyHandler {
+public class KeyHandler implements AltDeviceKeyHandler {
     private static final String TAG = KeyHandler.class.getSimpleName();
 
     // Camera motor event key codes
