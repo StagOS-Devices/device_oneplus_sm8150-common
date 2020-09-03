@@ -48,11 +48,11 @@ import android.util.Log;
 import android.util.SparseIntArray;
 import android.view.KeyEvent;
 
-import com.android.internal.os.DeviceKeyHandler;
+import com.android.internal.os.AltDeviceKeyHandler;
 
 import java.util.List;
 
-public class TouchKeyHandler implements DeviceKeyHandler {
+public class TouchKeyHandler implements AltDeviceKeyHandler {
 
     private static final String TAG = TouchKeyHandler.class.getSimpleName();
 
