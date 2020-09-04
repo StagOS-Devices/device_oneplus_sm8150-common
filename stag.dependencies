@@ -13,8 +13,8 @@
   },
   {
     "remote"      : "github",
-    "repository"  : "StagOS-Devices/vendor_oneplus",
+    "repository"  : "AOSiP-Devices/vendor_oneplus",
     "target_path" : "vendor/oneplus",
-    "branch"      : "sx"
+    "branch"      : "ten"
   }
 ]
